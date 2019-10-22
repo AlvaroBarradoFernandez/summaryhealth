@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437423231978",
+    "firebase_url": "https://summaryhealth-5b1b4.firebaseio.com",
+    "project_id": "summaryhealth-5b1b4",
+    "storage_bucket": "summaryhealth-5b1b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437423231978:android:f33844ea50fd46e44b5893",
+        "android_client_info": {
+          "package_name": "com.barri.enfermera_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437423231978-rjgltmsh0p99p6pc7ncopl5nitm7iij6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyuzUmNBo44vVxrkPFcGnzGCsdsZtfi5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437423231978-rjgltmsh0p99p6pc7ncopl5nitm7iij6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
